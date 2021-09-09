@@ -774,4 +774,7 @@ color: var(--lblue);
 .owl-item{
     width: auto;
 } 
+	.mtcardtext{
+    padding: 5px 0px;
+}
 }
